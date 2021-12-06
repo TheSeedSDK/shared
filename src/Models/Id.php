@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace TheSeed\Shared\Models;
 
-use OtherCode\ComplexHeart\Domain\ValueObjects\UUIDValue;
+use ComplexHeart\Domain\Model\ValueObjects\UUIDValue;
 
 /**
  * Class Id
